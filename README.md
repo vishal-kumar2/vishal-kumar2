@@ -171,10 +171,11 @@
 
 <!-- ========================= QUOTE ========================= -->
 
-# 💡 Quote I Believe In
+# 💡 Motivation
 
 <p align="center">
 
+### 💻 "Start small. Stay consistent. Build something great."
 ### 🚀 "Code, create, innovate."
 
 </p>
