@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Applications;AI%2FML+Explorer;Competitive+Programmer;Open+Source+Contributor;Always+Learning+🚀&center=true&width=650&height=45">
+ <!-- <img align="right" alt="coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
 </p>
 
 ---
