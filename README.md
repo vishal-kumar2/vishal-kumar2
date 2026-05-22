@@ -36,6 +36,37 @@
 
 ---
 
+
+<!-- ========================= LEETCODE ========================= -->
+
+
+# 🧠 LeetCode Achievements
+
+<p align="center">
+
+<img height="170" src="https://leetcard.jacoblin.cool/steve_codes?theme=dark&font=Nunito&ext=heatmap"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-Knight-blue?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/Rating-1944-orange?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/Solved-400%2B-brightgreen?style=for-the-badge&logo=leetcode"/>
+
+</p>
+
+<p align="center">
+
+⭐ Strong grasp of Data Structures & Algorithms  
+🚀 Regular Contest Participant on LeetCode
+
+</p>
+
+---
+
 <!-- ========================= CONNECT ========================= -->
 
 # 🌐 Connect With Me
